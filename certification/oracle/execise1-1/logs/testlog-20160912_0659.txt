@@ -1,0 +1,3 @@
+sept. 12, 2016 6:59:38 PM TestClass main
+INFOS: 
+This is a logger information massage. 
